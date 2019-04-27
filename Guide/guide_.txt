@@ -1,0 +1,34 @@
+For ExcuetionUnit 
+*************************
+in control signals 
+0000 >> sum
+0001 >> Subtraction
+0010>> mulliplication
+0111 >> OR
+0100 >> and
+0001 >> 2nd Complement for Input B but you must keep Input A zero before it 
+
+******************************* 
+any blue line that represent the BUS system either as input or output
+
+*******************************
+components of ExcuetionUnit :
+
+74HC173
+74LS245
+7404
+7408
+74LS283
+74151
+
+*********
+for RAM 
+74LS89
+74LS173
+74LS157
+
+***********
+for Instruction Register
+74245
+74HC161
+
